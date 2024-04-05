@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Contenidos de esta web
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Pagina de la profesora Ana Vicens para mis alumnos de 1 ESO de la asignatura Taller de Relaciones Digitales Responsables.**
 
-## Commands
+En esta pagina vas a tener acceso a parte tanto teorica como practica de la asignatura.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+En cada bloque vas a encontrar un conjunto de ejercicios, con un enunciado, y el material necesario para realizarlos.
 
-## Project layout
+---
+# TALLER DE RELACIONES DIGITALES RESPONSABLES
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+1 ESO
+![](img/portada.jpg)
