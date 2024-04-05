@@ -4,7 +4,7 @@ site_dir: 'docs'
 nav:
     - Home: index.md
     - About: about.md
-    - Sistemas Operaticos: SO.md
+    - Sistemas Operativos: SO.md
     - Ejercicios Dossier: ejerciciosdossier.md
 markdown_extensions:
   - admonition
