@@ -1,3 +1,19 @@
 site_name: Web Ana Profe
 docs_dir: 'md'
 site_dir: 'docs'
+nav:
+    - Home: index.md
+    - About: about.md
+    - Sistemas Operaticos: SO.md
+    - Ejercicios Dossier: ejerciciosdossier.md
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
+      anchor_linenums: true
+      auto_title: true
+plugins:
+ - search
